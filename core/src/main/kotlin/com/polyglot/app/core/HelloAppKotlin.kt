@@ -1,6 +1,6 @@
 package com.polyglot.app.core
 
-import com.polyglot.app.core.HelloApp.hello
+import com.polyglot.app.core.jni.HelloApp.hello
 
 /**
  * @author Pengtao Qiu

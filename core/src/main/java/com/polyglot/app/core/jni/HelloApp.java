@@ -1,4 +1,4 @@
-package com.polyglot.app.core;
+package com.polyglot.app.core.jni;
 
 import org.bytedeco.javacpp.Loader;
 import org.bytedeco.javacpp.annotation.Namespace;

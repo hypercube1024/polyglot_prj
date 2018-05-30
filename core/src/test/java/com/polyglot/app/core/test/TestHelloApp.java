@@ -1,6 +1,6 @@
 package com.polyglot.app.core.test;
 
-import static com.polyglot.app.core.HelloApp.hello;
+import static com.polyglot.app.core.jni.HelloApp.hello;
 
 /**
  * @author Pengtao Qiu
