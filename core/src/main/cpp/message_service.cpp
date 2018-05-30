@@ -97,7 +97,7 @@ namespace polyglot {
         class MsgCallback {
         public:
             virtual ~MsgCallback() = default;
-            
+
             virtual void call(MessageResponseJni * response) {
 
             }
